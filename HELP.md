@@ -32,6 +32,7 @@ The following guides illustrate how to use some features concretely:
 * [Bootstrap a Web Application with Spring 5](https://www.baeldung.com/bootstraping-a-web-application-with-spring-and-java-based-configuration)
 * [Introduction to Using Thymeleaf in Spring](https://www.baeldung.com/thymeleaf-in-spring-mvc)
 * [Template Engines for Spring](https://www.baeldung.com/spring-template-engines)
+* [Spring Boot CRUD Application with Thymeleaf](https://www.baeldung.com/spring-boot-crud-thymeleaf)
 * [Spring Security Form Login](https://www.baeldung.com/spring-security-login)
 * [Spring Security with Maven](https://www.baeldung.com/spring-security-with-maven)
 * [Spring Security Registration Tutorial](https://www.baeldung.com/spring-security-registration)
